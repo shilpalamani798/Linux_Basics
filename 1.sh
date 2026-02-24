@@ -1,1 +1,1 @@
-echo "hai there"
+echo "hai"
